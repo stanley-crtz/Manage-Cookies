@@ -1,4 +1,4 @@
-# Manage Cookies
+# Manage Cookies Navigator
 
 Este proyecto sirve para manejar las cookies del navegador.
 
@@ -6,13 +6,13 @@ Este proyecto sirve para manejar las cookies del navegador.
 
 
 ```sh
-npm i manage-cookies
+npm i manage-cookies-navigator
 ```
 
 ## Use
 
 ``` sh
-import ManageCookies from 'manage-cookies';
+import ManageCookies from 'manage-cookies-navigator';
 const cookies = new ManageCookies([cookie name]);
 ```
 
