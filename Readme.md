@@ -43,7 +43,7 @@ cookies.validatorCOOKIE();
 
 ## Github
 
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
+[Stanley Cortez](https://github.com/stanley-crtz/Manage-Cookies).
 
 ## License
 
