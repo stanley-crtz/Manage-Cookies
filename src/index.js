@@ -3,7 +3,7 @@ class COOKIES {
     /**
      * @constructor
      */
-    constructor(cookie) {
+    constructor(cookie = '') {
 
         this.COOKIE = this.getCookie(cookie);
         this.NAME_COKKIE = cookie;
@@ -16,7 +16,7 @@ class COOKIES {
      * @function getCookie
      * @exports COOKIEValue
      */
-    getCookie = (name = this.COOKIE) => {
+    getCookie(name = this.COOKIE) {
         let cookie,
             prefix,
             begin,
